@@ -1,0 +1,26 @@
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    color: #000;
+    text-align: left;
+    margin: 3px 0px;
+  }
+
+  button {
+    width: 10%;
+    height: 10%;
+    border-color: aquamarine;
+    background-color: blanchedalmond;
+    color: black;
+  }
+  #recipe {
+    padding: 20px;
+  }
+  
+  #recipe table {
+    border: solid 1px;
+    border-collapse: collapse;
+    background-color: lavender;
+    width: 100%;
+  }
